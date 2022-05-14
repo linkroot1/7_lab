@@ -1,5 +1,5 @@
 package game; //commit 2
-
+//commit 10
 public class Cabbage {
 
     //----------Свойства класса-----------------
