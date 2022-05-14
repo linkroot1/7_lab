@@ -1,4 +1,4 @@
-package game;
+package game; // commit 7
 
 import game.moveObjects.Goat;
 import java.util.Random;
