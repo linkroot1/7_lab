@@ -1,4 +1,4 @@
-package game;
+package game; // commit 6
 
 import game.moveObjects.Box;
 import game.moveObjects.Goat;
